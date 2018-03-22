@@ -1,0 +1,22 @@
+C:\Users\User\source\repos\DebitCardNumber\DebitCardNumber\bin\Debug\netcoreapp2.0\DebitCardNumber.deps.json
+C:\Users\User\source\repos\DebitCardNumber\DebitCardNumber\bin\Debug\netcoreapp2.0\DebitCardNumber.runtimeconfig.json
+C:\Users\User\source\repos\DebitCardNumber\DebitCardNumber\bin\Debug\netcoreapp2.0\DebitCardNumber.runtimeconfig.dev.json
+C:\Users\User\source\repos\DebitCardNumber\DebitCardNumber\bin\Debug\netcoreapp2.0\DebitCardNumber.dll
+C:\Users\User\source\repos\DebitCardNumber\DebitCardNumber\bin\Debug\netcoreapp2.0\DebitCardNumber.pdb
+C:\Users\User\source\repos\DebitCardNumber\DebitCardNumber\obj\Debug\netcoreapp2.0\DebitCardNumber.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\DebitCardNumber\DebitCardNumber\obj\Debug\netcoreapp2.0\DebitCardNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DebitCardNumber\DebitCardNumber\obj\Debug\netcoreapp2.0\DebitCardNumber.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DebitCardNumber\DebitCardNumber\obj\Debug\netcoreapp2.0\DebitCardNumber.AssemblyInfo.cs
+C:\Users\User\source\repos\DebitCardNumber\DebitCardNumber\obj\Debug\netcoreapp2.0\DebitCardNumber.dll
+C:\Users\User\source\repos\DebitCardNumber\DebitCardNumber\obj\Debug\netcoreapp2.0\DebitCardNumber.pdb
+D:\03_Programming\03_courses\SoftUni\01_TechModule\02_Software_Technologies\04_GIT AND GITHUB - EXERCISES\Exercise_ValTod\TeamWorkValTod\March2018\DebitCardNumber\bin\Debug\netcoreapp2.0\DebitCardNumber.deps.json
+D:\03_Programming\03_courses\SoftUni\01_TechModule\02_Software_Technologies\04_GIT AND GITHUB - EXERCISES\Exercise_ValTod\TeamWorkValTod\March2018\DebitCardNumber\bin\Debug\netcoreapp2.0\DebitCardNumber.runtimeconfig.json
+D:\03_Programming\03_courses\SoftUni\01_TechModule\02_Software_Technologies\04_GIT AND GITHUB - EXERCISES\Exercise_ValTod\TeamWorkValTod\March2018\DebitCardNumber\bin\Debug\netcoreapp2.0\DebitCardNumber.runtimeconfig.dev.json
+D:\03_Programming\03_courses\SoftUni\01_TechModule\02_Software_Technologies\04_GIT AND GITHUB - EXERCISES\Exercise_ValTod\TeamWorkValTod\March2018\DebitCardNumber\bin\Debug\netcoreapp2.0\DebitCardNumber.dll
+D:\03_Programming\03_courses\SoftUni\01_TechModule\02_Software_Technologies\04_GIT AND GITHUB - EXERCISES\Exercise_ValTod\TeamWorkValTod\March2018\DebitCardNumber\bin\Debug\netcoreapp2.0\DebitCardNumber.pdb
+D:\03_Programming\03_courses\SoftUni\01_TechModule\02_Software_Technologies\04_GIT AND GITHUB - EXERCISES\Exercise_ValTod\TeamWorkValTod\March2018\DebitCardNumber\obj\Debug\netcoreapp2.0\DebitCardNumber.csprojResolveAssemblyReference.cache
+D:\03_Programming\03_courses\SoftUni\01_TechModule\02_Software_Technologies\04_GIT AND GITHUB - EXERCISES\Exercise_ValTod\TeamWorkValTod\March2018\DebitCardNumber\obj\Debug\netcoreapp2.0\DebitCardNumber.csproj.CoreCompileInputs.cache
+D:\03_Programming\03_courses\SoftUni\01_TechModule\02_Software_Technologies\04_GIT AND GITHUB - EXERCISES\Exercise_ValTod\TeamWorkValTod\March2018\DebitCardNumber\obj\Debug\netcoreapp2.0\DebitCardNumber.AssemblyInfoInputs.cache
+D:\03_Programming\03_courses\SoftUni\01_TechModule\02_Software_Technologies\04_GIT AND GITHUB - EXERCISES\Exercise_ValTod\TeamWorkValTod\March2018\DebitCardNumber\obj\Debug\netcoreapp2.0\DebitCardNumber.AssemblyInfo.cs
+D:\03_Programming\03_courses\SoftUni\01_TechModule\02_Software_Technologies\04_GIT AND GITHUB - EXERCISES\Exercise_ValTod\TeamWorkValTod\March2018\DebitCardNumber\obj\Debug\netcoreapp2.0\DebitCardNumber.dll
+D:\03_Programming\03_courses\SoftUni\01_TechModule\02_Software_Technologies\04_GIT AND GITHUB - EXERCISES\Exercise_ValTod\TeamWorkValTod\March2018\DebitCardNumber\obj\Debug\netcoreapp2.0\DebitCardNumber.pdb
