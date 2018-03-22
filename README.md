@@ -4,8 +4,7 @@ Software Technologies Exercise
 
 
 
-### Problem 2.             
-Rectangle Area
+### Problem 2.			Rectangle Area
 
 Write a program, which calculates a **rectangle’s area**, based on its **width** and **height**. The **width** and **height** come as floating point numbers
 on the console, **formatted to the 2
@@ -26,7 +25,7 @@ character after the decimal point**.
 
 
 
-### Problem 3.                Miles to Kilometers
+### Problem 3.    	Miles to Kilometers
 
 Write a program, which **converts** **miles** to **kilometers**. **Format** the output to the **2
 
