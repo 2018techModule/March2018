@@ -4,10 +4,10 @@ public class Program
 {
     public static void Main()
     {
-        var mile = double.Parse(Console.ReadLine());
+        double mili = double.Parse(Console.ReadLine());
         
-        var km = mile*1.60934;
+        double kilometri = mili*1.60934;
 		
-        Console.WriteLine("{0:F2}",km);
+        Console.WriteLine("{0:F2}",kilometri);
     }
 }
