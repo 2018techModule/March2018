@@ -149,19 +149,7 @@ Nuka-Cola Quantum  | 350ml Nuka-Cola Quantum:
 140                |
 
 
-&lt;!--
-		@page { margin: 0.79in }
-		h3 { margin-top: 0.08in; margin-bottom: 0.06in; direction: ltr; color: #8f400b; text-align: left; page-break-inside: avoid; widows: 2; orphans: 2 }
-		h3.western { font-family: "Calibri", serif; font-size: 16pt }
-		h3.cjk { font-family: "Droid Sans Fallback"; font-size: 16pt }
-		h3.ctl { font-family: ; font-size: 16pt; font-weight: normal }
-		h2 { margin-bottom: 0.03in; direction: ltr; color: #7c380a; text-align: left; page-break-inside: avoid; widows: 2; orphans: 2 }
-		h2.western { font-family: "Calibri", serif }
-		h2.cjk { font-family: "Droid Sans Fallback" }
-		h2.ctl { font-family:  }
-		p { margin-bottom: 0.1in; direction: ltr; line-height: 120%; text-align: left; widows: 2; orphans: 2 }
-		a:link { color: #0000ff; so-language: zxx }
-	--&gt;
+
 	
 
 ### Problem 5. Character Stats 
@@ -305,4 +293,16 @@ Energy: |..........|
 
 
 
-
+&lt;!--
+		@page { margin: 0.79in }
+		h3 { margin-top: 0.08in; margin-bottom: 0.06in; direction: ltr; color: #8f400b; text-align: left; page-break-inside: avoid; widows: 2; orphans: 2 }
+		h3.western { font-family: "Calibri", serif; font-size: 16pt }
+		h3.cjk { font-family: "Droid Sans Fallback"; font-size: 16pt }
+		h3.ctl { font-family: ; font-size: 16pt; font-weight: normal }
+		h2 { margin-bottom: 0.03in; direction: ltr; color: #7c380a; text-align: left; page-break-inside: avoid; widows: 2; orphans: 2 }
+		h2.western { font-family: "Calibri", serif }
+		h2.cjk { font-family: "Droid Sans Fallback" }
+		h2.ctl { font-family:  }
+		p { margin-bottom: 0.1in; direction: ltr; line-height: 120%; text-align: left; widows: 2; orphans: 2 }
+		a:link { color: #0000ff; so-language: zxx }
+	--&gt;
