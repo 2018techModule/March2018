@@ -15,7 +15,7 @@ public class Main {
 		DecimalFormat df = new DecimalFormat("#.###");
 		String name=input.nextLine();
 //Read parameters about drink from the console
-		double volume=Double.parseDouble(input.nextLine());
+		double volumes=Double.parseDouble(input.nextLine());
 		double energy=Double.parseDouble(input.nextLine());
 		double sugar=Double.parseDouble(input.nextLine());
 //Calculate and print information about calories
