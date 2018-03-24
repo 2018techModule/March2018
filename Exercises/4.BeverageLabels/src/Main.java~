@@ -14,11 +14,9 @@ public class Main {
 	public static void main(String args[]) {
 		DecimalFormat df = new DecimalFormat("#.###");
 		String name=input.nextLine();
-//Read parameters about drink from the console
 		double volume=Double.parseDouble(input.nextLine());
 		double energy=Double.parseDouble(input.nextLine());
 		double sugar=Double.parseDouble(input.nextLine());
-//Calculate and print information about calories
 		System.out.printf("%sml %s: \n",df.format(volume),name);
 		double b=volume*energy/100;
 		double a=sugar*volume/100;
