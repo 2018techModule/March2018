@@ -1,4 +1,5 @@
 //CONFIRMED from ValTod
+//CONFIRMED from ValTod second time after variables changes
 import java.text.DecimalFormat;
 import java.time.LocalDate;
 import java.time.LocalTime;
